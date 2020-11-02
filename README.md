@@ -1,6 +1,6 @@
 # Awesome SaaS [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome SaaS starter (Software as a services).
+A curated list of awesome SaaS (Software as a server) starter.
 
 ## Contents
 
