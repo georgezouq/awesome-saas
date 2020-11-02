@@ -52,7 +52,6 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [Qing Flow](https://qingflow.com/) - 通过“无代码”技术重塑系统开发方式
 - [Huozige](https://www.grapecity.com.cn/solutions/huozige) - Low code platform.
 
-
 ## Docs
 
 - [MySlide](https://myslide.cn/) - 一个类似于SlideShare和SpeakerDeck的PPT分享网站.
@@ -75,9 +74,10 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 ## Design
 
+- [Zeplin](https://zeplin.io/) - Handoff designs and styleguides with accurate specs, assets, code snippets—automatically.
+- [Lanhu](https://lanhuapp.com/web/#/item) - Efficient product design collaboration platform.
 - [图怪兽](https://818ps.com) - 作图神器
-* [蓝狐](https://lanhuapp.com/web/#/item)
-* [uizard](https://uizard.io/?gclid=Cj0KCQjwlJfsBRDUARIsAIDHsWqnHNb7s8SfCdg8Y-dubCbEFKoHLJXi0uI3HFTkaZbVNJx0DLFxgn4aAkazEALw_wcB): Transform your hand-drawn wireframes into digital design files and front-end code – automatically!
+- [uizard](https://uizard.io/) - Transform your hand-drawn wireframes into digital design files and front-end code – automatically!
 
 ## Discussion
 
