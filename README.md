@@ -17,6 +17,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [Discussion](#discussion)
 - [CMS & Website](#cms--website)
 - [Log Analysis](#log-analysis)
+- [Cloud Services](#cloud-services)
 
 ## Information
 
@@ -97,3 +98,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 - [悟空CRM](https://www.bt.cn/) - Customer Relationship Management. 
 - [北森锐途](https://www.beisen.com/product/evaluation/glzh/?utm_source=GL_bd_cpxf_glrycp&utm_medium=bdsem&utm_term=%E6%B5%8B%E8%AF%84%E4%BA%91-%E7%BB%86%E5%88%86%E8%AF%8D&utm_content=%E7%AE%A1%E7%90%86%E4%BA%BA%E5%91%98%E7%BB%BC%E5%90%88%E6%B5%8B%E8%AF%84&utm_campaign=%E9%94%90%E9%80%94&e_matchtype=1&e_creative=14648159205&e_adposition=cl1&e_pagenum=1&e_keywordid=102315230595&e_keywordid2=102315230595)
+
+## Cloud Services
+
+- [NextCloud](https://nextcloud.com) - A safe home for all your data, community-driven free & open source.
