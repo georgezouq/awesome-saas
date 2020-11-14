@@ -76,10 +76,12 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 ## Design
 
+- [Figma](https://www.figma.com/) - the collaborative interface design tool.
 - [Zeplin](https://zeplin.io/) - Handoff designs and styleguides with accurate specs, assets, code snippets—automatically.
 - [Lanhu](https://lanhuapp.com/web/#/item) - Efficient product design collaboration platform.
-- [图怪兽](https://818ps.com) - 作图神器
+- [图怪兽](https://818ps.com) - 作图神器.
 - [uizard](https://uizard.io/) - Transform your hand-drawn wireframes into digital design files and front-end code – automatically!
+- [proto](https://proto.io/) - Create fully-interactive high-fidelity prototypes that look and work exactly like your app should.
 
 ## Discussion
 
