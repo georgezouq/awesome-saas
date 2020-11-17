@@ -27,6 +27,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 ## Data Analysis
 
+- [Baremetrics](https://baremetrics.com/) - Metrics, dunning, and engagement tools for SaaS & subscription businesses.
 - [GrowingIO](https://www.growingio.com/) - 一站式数字化增长整体方案服务商。为产品、运营、市场、数据团队及管理者提供客户数据平台（CDP）、广告分析、产品分析、智能运营等产品和咨询服务。
 - [BDP](https://me.bdp.cn/home.html) - Data analysis platform.
 - [ChartCube](https://chartcube.alipay.com/) - Online chart generator.
