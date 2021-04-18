@@ -4,6 +4,8 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 ## Contents
 
+- [Book](#book)
+- [Low & No Code](#low--no-code)
 - [Information](#information)
 - [Data Analysis](#data-analysis)
 - [Project & Team Management](#project--team-management)
@@ -18,6 +20,22 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [CMS & Website](#cms--website)
 - [Log Analysis](#log-analysis)
 - [Cloud Services](#cloud-services)
+
+## Book
+
+- [SaaS创业路线图](https://book.douban.com/subject/35079444/) - to B产品、营销、运营方法论及实战案例解读
+- [硅谷蓝图](https://book.douban.com/subject/33407572/) - 新一代销售组织极速增长的秘密
+
+## Low & No Code Platform
+
+- [宜搭](https://www.aliwork.com/)
+- [轻流](https://qingflow.com/)
+- [黑帕云](https://hipacloud.com/)
+- [Microsoft Power](https://powerplatform.microsoft.com/en-us/)
+- [腾讯云微搭](https://cloud.tencent.com/product/weda)
+- [氚云](https://h3yun.com/)
+- [简道云](https://www.jiandaoyun.com/)
+- [IVS](https://www.ivx.cn/)
 
 ## Information
 
@@ -93,7 +111,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 ## CMS & Website
 
 - [Webflow](https://webflow.com/) - Empowers designers to build professional, custom websites in a completely visual canvas.
-                                    
+
 ## Log Analysis
 
 - [Sentry](https://sentry.io/welcome/) - Application monitoring platform helps every developer diagnose, fix, and optimize the performance of their code.
@@ -101,7 +119,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 ## CRM & HR
 
-- [悟空CRM](https://www.bt.cn/) - Customer Relationship Management. 
+- [悟空CRM](https://www.bt.cn/) - Customer Relationship Management.
 - [北森锐途](https://www.beisen.com/product/evaluation/glzh/?utm_source=GL_bd_cpxf_glrycp&utm_medium=bdsem&utm_term=%E6%B5%8B%E8%AF%84%E4%BA%91-%E7%BB%86%E5%88%86%E8%AF%8D&utm_content=%E7%AE%A1%E7%90%86%E4%BA%BA%E5%91%98%E7%BB%BC%E5%90%88%E6%B5%8B%E8%AF%84&utm_campaign=%E9%94%90%E9%80%94&e_matchtype=1&e_creative=14648159205&e_adposition=cl1&e_pagenum=1&e_keywordid=102315230595&e_keywordid2=102315230595)
 
 ## Cloud Services
