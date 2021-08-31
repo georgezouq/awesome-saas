@@ -20,6 +20,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [CMS & Website](#cms--website)
 - [Log Analysis](#log-analysis)
 - [Cloud Services](#cloud-services)
+- [RPA](#RPA)
 
 ## Book
 
@@ -128,3 +129,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 ## Cloud Services
 
 - [NextCloud](https://nextcloud.com) - A safe home for all your data, community-driven free & open source.
+
+## RPA
+
+- [影刀](https://www.winrobot360.com/Automation.html) - 每一个人都能用的RPA，结束重复工作，释放创意潜能.
