@@ -115,6 +115,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 ## CMS & Website
 
 - [Webflow](https://webflow.com/) - Empowers designers to build professional, custom websites in a completely visual canvas.
+- [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website‎
 
 ## Log Analysis
 
