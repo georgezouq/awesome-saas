@@ -31,6 +31,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 ## Low & No Code Platform
 
 - [宜搭](https://www.aliwork.com/)
+- [Linx](https://linx.software)
 - [轻流](https://qingflow.com/)
 - [黑帕云](https://hipacloud.com/)
 - [Microsoft Power](https://powerplatform.microsoft.com/en-us/)
