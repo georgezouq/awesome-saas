@@ -55,6 +55,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [BDP](https://me.bdp.cn/home.html) - Data analysis platform.
 - [ChartCube](https://chartcube.alipay.com/) - Online chart generator.
 - [小葫芦](https://www.xiaohulu.com/gonghui/) - 达人数据统计分析工具
+- [Crawlbase](https://crawlbase.com/) - Your go-to tool for effortless website data extraction! Easily collect information with our user-friendly interface and enjoy seamless crawling for all your data needs.
 
 ## Project & Team Management
 
