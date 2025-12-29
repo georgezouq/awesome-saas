@@ -107,6 +107,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [Donna](https://www.donna.legal/) - A plug-in for Microsoft Word that highlights and links relevant information.
 - [Lobe](https://lobe.ai/) - Helps you train machine learning models with a free, easy to use tool.
 - [wombo.art](https://app.wombo.art/) - Create amazing works of art in seconds with the power of AI.
+- [Vedika](https://vedika.io/) - AI-powered Vedic astrology API with 6-agent swarm intelligence for natural language predictions.
 
 ## VR
 
