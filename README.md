@@ -77,6 +77,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [SocialGrep Reddit Alerts](https://socialgrep.com/alerts) - social media listening tool. "Signals out of the social web of noise".
 - [SquareSpace](https://www.squarespace.com/) - Website Builder — Create a Website in Minutes.
 - [EditorX](https://editorx.com/) - Editor X is an advanced creation platform for designers and web professionals. The platform combines cutting edge responsive design with smooth drag and drop.
+- [Cobalt Studio Tools Hub](https://techchenko.github.io/cobaltstudio-products/tools/) - Free no-signup generators for freelancers and founders (cold email, invoices, SOW, etc.).
 
 ## Low & No Code Platform
 
