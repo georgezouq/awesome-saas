@@ -142,6 +142,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 - [Sentry](https://sentry.io/welcome/) - Application monitoring platform helps every developer diagnose, fix, and optimize the performance of their code.
 - [loggly](https://www.loggly.com/) - Log analysis & monitoring in the cloud.
+- [API Status Check](https://apistatuscheck.com) - Free real-time status monitoring dashboard for 114+ developer APIs including AWS, Stripe, GitHub, and OpenAI.
 
 ## CRM & HR
 
