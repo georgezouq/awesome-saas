@@ -110,6 +110,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [Lobe](https://lobe.ai/) - Helps you train machine learning models with a free, easy to use tool.
 - [wombo.art](https://app.wombo.art/) - Create amazing works of art in seconds with the power of AI.
 - [Vedika](https://vedika.io/) - AI-powered Vedic astrology API with 6-agent swarm intelligence for natural language predictions.
+- [Arch Tools](https://archtools.dev) - 61 production-ready AI tools API (code analysis, web scraping, image generation, NLP, crypto, search) via REST and MCP protocol. x402 USDC micropayments. Free tier: 100 credits/month.
 
 ## VR
 
