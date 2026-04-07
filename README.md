@@ -110,6 +110,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [Lobe](https://lobe.ai/) - Helps you train machine learning models with a free, easy to use tool.
 - [wombo.art](https://app.wombo.art/) - Create amazing works of art in seconds with the power of AI.
 - [Vedika](https://vedika.io/) - AI-powered Vedic astrology API with 6-agent swarm intelligence for natural language predictions.
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 
 ## VR
 
