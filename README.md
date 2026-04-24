@@ -106,6 +106,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 ## AI
 
+- [AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions, MCP support, 50+ languages, <700ms latency. Free tier.
 - [Donna](https://www.donna.legal/) - A plug-in for Microsoft Word that highlights and links relevant information.
 - [Lobe](https://lobe.ai/) - Helps you train machine learning models with a free, easy to use tool.
 - [wombo.art](https://app.wombo.art/) - Create amazing works of art in seconds with the power of AI.
