@@ -78,6 +78,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [SquareSpace](https://www.squarespace.com/) - Website Builder — Create a Website in Minutes.
 - [EditorX](https://editorx.com/) - Editor X is an advanced creation platform for designers and web professionals. The platform combines cutting edge responsive design with smooth drag and drop.
 - [PagesRUs](https://pagesrus.com) - AI-powered B2B business discovery and lead generation platform to find companies, suppliers, distributors, and buyers by niche and location.
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose web utilities for marketers and indie founders: OG image generator, SEO meta tag generator, AI robots.txt generator, AI content disclosure generator (EU AI Act), favicon generator, color palette generator, domain name generator. Browser-based, no signup. Open source.
 
 
 ## Low & No Code Platform
