@@ -77,7 +77,10 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [SocialGrep Reddit Alerts](https://socialgrep.com/alerts) - social media listening tool. "Signals out of the social web of noise".
 - [SquareSpace](https://www.squarespace.com/) - Website Builder — Create a Website in Minutes.
 - [EditorX](https://editorx.com/) - Editor X is an advanced creation platform for designers and web professionals. The platform combines cutting edge responsive design with smooth drag and drop.
-- [findmemail.io](https://findmemail.io) - B2B email finder with plain-English ICP search and SMTP-verified founder/decision-maker emails. Free tier (50 credits) and $200 lifetime tier.- [PagesRUs](https://pagesrus.com) - AI-powered B2B business discovery and lead generation platform to find companies, suppliers, distributors, and buyers by niche and location.
+- [findmemail.io](https://findmemail.io) - B2B email finder with plain-English ICP search and SMTP-verified founder/decision-maker emails. Free tier (50 credits) and $200 lifetime tier.
+- [PagesRUs](https://pagesrus.com) - AI-powered B2B business discovery and lead generation platform to find companies, suppliers, distributors, and buyers by niche and location.
+- [PagesRUs](https://pagesrus.com) - AI-powered B2B business discovery and lead generation platform to find companies, suppliers, distributors, and buyers by niche and location.
+- [SalesLabel](https://sales-label.com) - White-label outbound sales infrastructure platform for B2B agencies. Helps 100+ agencies launch reseller offers under their own brand.
 
 
 ## Low & No Code Platform
@@ -140,6 +143,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 - [Webflow](https://webflow.com/) - Empowers designers to build professional, custom websites in a completely visual canvas.
 - [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website‎
+- [LinkyPO](https://linkypo.com) - Free link-in-bio + mini-site builder with 21 block types (calendar booking, lead forms, OCR lists, loyalty stamps), Google/Outlook calendar sync and an AI SEO coach.
 
 ## Log Analysis
 
