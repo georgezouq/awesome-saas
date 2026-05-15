@@ -69,6 +69,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 ## Marketing
 
+- [WebCoreLab](https://webcorelab.com) — AI-First digital agency. SEO/GEO/AEO audits, CRO, WordPress/React builds. 13+ verified case studies. Toronto, est. 2014.
 - [灵犀](https://www.getlingxi.com/) - 快速搭建高转化落地页
 - [智趣百川](https://www.scrmtech.com/marketing.html) - 全渠道获客|线索管理与孵化|销售自动化|营销闭环体系.
 - [微擎](https://www.w7.cc/) - 微信公众号管理系统 + 应用商城，海量应用，随心所选
