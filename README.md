@@ -145,6 +145,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 ## CMS & Website
 
+- [UnfoldCMS](https://unfoldcms.com) - Self-hosted, open-source CMS built on Laravel 12 + React 19 + shadcn/ui. Alternative to WordPress, Ghost, and Strapi. No monthly SaaS fee.
 - [Webflow](https://webflow.com/) - Empowers designers to build professional, custom websites in a completely visual canvas.
 - [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website‎
 - [LinkyPO](https://linkypo.com) - Free link-in-bio + mini-site builder with 21 block types (calendar booking, lead forms, OCR lists, loyalty stamps), Google/Outlook calendar sync and an AI SEO coach.
