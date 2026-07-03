@@ -84,6 +84,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [PagesRUs](https://pagesrus.com) - AI-powered B2B business discovery and lead generation platform to find companies, suppliers, distributors, and buyers by niche and location.
 - [SalesLabel](https://sales-label.com) - White-label outbound sales infrastructure platform for B2B agencies. Helps 100+ agencies launch reseller offers under their own brand.
 - [Shotlingo](https://shotlingo.com) - AI-powered App Store screenshot localization for 40+ languages. Translate, preview, and batch-export App Store / Google Play screenshots — text expansion, RTL mirror, and per-locale fonts handled automatically.
+- [GetAppNiche](https://getappniche.com/) - iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
 
 
 ## Low & No Code Platform
