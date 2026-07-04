@@ -109,6 +109,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [Prezi](https://prezi.com): 画布PPT.
 - [幕布](https://mubu.com/): 极简大纲笔记，一键生成思维导图.
 - [Dataku](https://dataku.ai/) - Unstructured Text To Structured Data.
+- [DokuTrak](https://dokutrak.com) - Secure magic-link document collection: clients upload via link (no login), AI validates files and auto-reminds for what's missing.
 
 ## AI
 
