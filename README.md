@@ -51,6 +51,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 ## Data Analysis
 
 - [Baremetrics](https://baremetrics.com/) - Metrics, dunning, and engagement tools for SaaS & subscription businesses.
+- [Beton Inspector](https://github.com/getbeton/inspector) - Open-source revenue intelligence; scores accounts from PostHog product-usage data + CRM and routes the warmest leads to sales. Self-hostable (OSS alternative to Pocus / Common Room).
 - [GrowingIO](https://www.growingio.com/) - 一站式数字化增长整体方案服务商。为产品、运营、市场、数据团队及管理者提供客户数据平台（CDP）、广告分析、产品分析、智能运营等产品和咨询服务。
 - [BDP](https://me.bdp.cn/home.html) - Data analysis platform.
 - [ChartCube](https://chartcube.alipay.com/) - Online chart generator.
@@ -69,6 +70,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 ## Marketing
 
+- [WebCoreLab](https://webcorelab.com) — AI-First digital agency. SEO/GEO/AEO audits, CRO, WordPress/React builds. 13+ verified case studies. Toronto, est. 2014.
 - [灵犀](https://www.getlingxi.com/) - 快速搭建高转化落地页
 - [智趣百川](https://www.scrmtech.com/marketing.html) - 全渠道获客|线索管理与孵化|销售自动化|营销闭环体系.
 - [微擎](https://www.w7.cc/) - 微信公众号管理系统 + 应用商城，海量应用，随心所选
@@ -77,7 +79,11 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [SocialGrep Reddit Alerts](https://socialgrep.com/alerts) - social media listening tool. "Signals out of the social web of noise".
 - [SquareSpace](https://www.squarespace.com/) - Website Builder — Create a Website in Minutes.
 - [EditorX](https://editorx.com/) - Editor X is an advanced creation platform for designers and web professionals. The platform combines cutting edge responsive design with smooth drag and drop.
+- [findmemail.io](https://findmemail.io) - B2B email finder with plain-English ICP search and SMTP-verified founder/decision-maker emails. Free tier (50 credits) and $200 lifetime tier.
 - [PagesRUs](https://pagesrus.com) - AI-powered B2B business discovery and lead generation platform to find companies, suppliers, distributors, and buyers by niche and location.
+- [PagesRUs](https://pagesrus.com) - AI-powered B2B business discovery and lead generation platform to find companies, suppliers, distributors, and buyers by niche and location.
+- [SalesLabel](https://sales-label.com) - White-label outbound sales infrastructure platform for B2B agencies. Helps 100+ agencies launch reseller offers under their own brand.
+- [Shotlingo](https://shotlingo.com) - AI-powered App Store screenshot localization for 40+ languages. Translate, preview, and batch-export App Store / Google Play screenshots — text expansion, RTL mirror, and per-locale fonts handled automatically.
 
 
 ## Low & No Code Platform
@@ -108,6 +114,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 - [AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions, MCP support, 50+ languages, <700ms latency. Free tier.
 - [Donna](https://www.donna.legal/) - A plug-in for Microsoft Word that highlights and links relevant information.
+- [Hermes](https://buildwithhermes.com) - Operating platform for AI voice agencies. White-label voice agents with built-in CRM, campaign orchestration and usage billing, from $149/mo.
 - [Lobe](https://lobe.ai/) - Helps you train machine learning models with a free, easy to use tool.
 - [wombo.art](https://app.wombo.art/) - Create amazing works of art in seconds with the power of AI.
 - [Vedika](https://vedika.io/) - AI-powered Vedic astrology API with 6-agent swarm intelligence for natural language predictions.
@@ -123,6 +130,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 ## Product & Design
 
 - [Figma](https://www.figma.com/) - the collaborative interface design tool.
+- [igly.ai](https://igly.ai/) - AI-powered image editing for background removal, generative fill, upscaling, and product photo editing.
 - [Zeplin](https://zeplin.io/) - Handoff designs and styleguides with accurate specs, assets, code snippets—automatically.
 - [Whimsical](https://whimsical.com/) - Unified suite of collaboration tools. Great for product specs, wikis, brainstorming, ideation, user flows, architecture diagrams and more.
 - [Lanhu](https://lanhuapp.com/web/#/item) - Efficient product design collaboration platform.
@@ -140,6 +148,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 - [Webflow](https://webflow.com/) - Empowers designers to build professional, custom websites in a completely visual canvas.
 - [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website‎
+- [LinkyPO](https://linkypo.com) - Free link-in-bio + mini-site builder with 21 block types (calendar booking, lead forms, OCR lists, loyalty stamps), Google/Outlook calendar sync and an AI SEO coach.
 
 ## Log Analysis
 
