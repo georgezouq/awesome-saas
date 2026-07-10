@@ -77,6 +77,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [CRMEB](http://www.crmeb.com/) - 致力于帮助更多的中小企业开展线上线下O2O、B2C、新零售业务，实现互联网转型      
 - [framer](https://www.framer.com/) - The professional website design platform for startups, designers and agencies. Ship within hours, straight from your canvas – no code and no limitations.
 - [SocialGrep Reddit Alerts](https://socialgrep.com/alerts) - social media listening tool. "Signals out of the social web of noise".
+- [Awesome Agentic Commerce](https://github.com/MentionNetwork/awesome-agentic-commerce) - Curated list of GEO / AI-visibility tools and agentic commerce protocols for SaaS and ecommerce brands marketing in the AI-search era.
 - [SquareSpace](https://www.squarespace.com/) - Website Builder — Create a Website in Minutes.
 - [EditorX](https://editorx.com/) - Editor X is an advanced creation platform for designers and web professionals. The platform combines cutting edge responsive design with smooth drag and drop.
 - [findmemail.io](https://findmemail.io) - B2B email finder with plain-English ICP search and SMTP-verified founder/decision-maker emails. Free tier (50 credits) and $200 lifetime tier.
