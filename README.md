@@ -46,6 +46,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 - [Meetup](https://www.meetup.com/) - Discover events for all the things you love.
 - [Owler](https://corp.owler.com/) - Hard-to-find company data, and strategic news alerts for savvy executives, marketers and sales professionals.
+- [IntelCue](https://www.intelcue.ai) - AI-native competitive intelligence platform delivering competitor monitoring inside Claude and ChatGPT via MCP.
 - [RemoteClub](https://remoteclub.io/?ref=producthunt) - Find remote jobs for Developers, Designers, Customer Service, Management, Marketing and Sales. Work from anywhere. Hire remote workers!
 
 ## Data Analysis
