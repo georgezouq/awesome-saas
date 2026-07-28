@@ -71,6 +71,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 ## Marketing
 
+- [DayOneLead](https://dayonelead.com) - Tracks newly registered LLCs and corporations across 5 US states from public filings and enriches each with verified owner name, phone, email, and website for first-mover B2B prospecting. Free trial.
 - [AnswerLens](https://app.sfdj.net/) - Audits B2B SaaS pricing pages for plan-fit, proof, and decision-making gaps.
 - [WebCoreLab](https://webcorelab.com) — AI-First digital agency. SEO/GEO/AEO audits, CRO, WordPress/React builds. 13+ verified case studies. Toronto, est. 2014.
 - [灵犀](https://www.getlingxi.com/) - 快速搭建高转化落地页
