@@ -46,6 +46,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 - [Meetup](https://www.meetup.com/) - Discover events for all the things you love.
 - [Owler](https://corp.owler.com/) - Hard-to-find company data, and strategic news alerts for savvy executives, marketers and sales professionals.
+- [IntelCue](https://www.intelcue.ai) - AI-native competitive intelligence platform delivering competitor monitoring inside Claude and ChatGPT via MCP.
 - [RemoteClub](https://remoteclub.io/?ref=producthunt) - Find remote jobs for Developers, Designers, Customer Service, Management, Marketing and Sales. Work from anywhere. Hire remote workers!
 
 ## Data Analysis
@@ -70,6 +71,8 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 ## Marketing
 
+- [DayOneLead](https://dayonelead.com) - Tracks newly registered LLCs and corporations across 5 US states from public filings and enriches each with verified owner name, phone, email, and website for first-mover B2B prospecting. Free trial.
+- [AnswerLens](https://app.sfdj.net/) - Audits B2B SaaS pricing pages for plan-fit, proof, and decision-making gaps.
 - [WebCoreLab](https://webcorelab.com) — AI-First digital agency. SEO/GEO/AEO audits, CRO, WordPress/React builds. 13+ verified case studies. Toronto, est. 2014.
 - [灵犀](https://www.getlingxi.com/) - 快速搭建高转化落地页
 - [智趣百川](https://www.scrmtech.com/marketing.html) - 全渠道获客|线索管理与孵化|销售自动化|营销闭环体系.
@@ -77,6 +80,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [CRMEB](http://www.crmeb.com/) - 致力于帮助更多的中小企业开展线上线下O2O、B2C、新零售业务，实现互联网转型      
 - [framer](https://www.framer.com/) - The professional website design platform for startups, designers and agencies. Ship within hours, straight from your canvas – no code and no limitations.
 - [SocialGrep Reddit Alerts](https://socialgrep.com/alerts) - social media listening tool. "Signals out of the social web of noise".
+- [Awesome Agentic Commerce](https://github.com/MentionNetwork/awesome-agentic-commerce) - Curated list of GEO / AI-visibility tools and agentic commerce protocols for SaaS and ecommerce brands marketing in the AI-search era.
 - [SquareSpace](https://www.squarespace.com/) - Website Builder — Create a Website in Minutes.
 - [EditorX](https://editorx.com/) - Editor X is an advanced creation platform for designers and web professionals. The platform combines cutting edge responsive design with smooth drag and drop.
 - [findmemail.io](https://findmemail.io) - B2B email finder with plain-English ICP search and SMTP-verified founder/decision-maker emails. Free tier (50 credits) and $200 lifetime tier.
@@ -84,7 +88,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [PagesRUs](https://pagesrus.com) - AI-powered B2B business discovery and lead generation platform to find companies, suppliers, distributors, and buyers by niche and location.
 - [SalesLabel](https://sales-label.com) - White-label outbound sales infrastructure platform for B2B agencies. Helps 100+ agencies launch reseller offers under their own brand.
 - [Shotlingo](https://shotlingo.com) - AI-powered App Store screenshot localization for 40+ languages. Translate, preview, and batch-export App Store / Google Play screenshots — text expansion, RTL mirror, and per-locale fonts handled automatically.
-- [DayOneLead](https://dayonelead.com) - Tracks newly registered LLCs and corporations across 5 US states from public filings and enriches each with verified owner name, phone, email, and website for first-mover B2B prospecting. Free trial.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 
 ## Low & No Code Platform
@@ -100,6 +104,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [sunmao](https://github.com/smartxworks/sunmao-ui) - Front-end low-code framework. Through Sunmao, you can easily encapsulate any front-end UI components into low-code component libraries to build your own low-code UI development platform, making front-end development as tight as Sunmao
 - [illa-builder](https://github.com/illacloud/illa-builder) - Retool open-source alternative, with low-code UI components and support for multiple data resources.
 - [nocobase](https://www.nocobase.com/) - No programming required, build your own collaboration platform, management system with NocoBase in minutes.
+- [Mautic](https://www.mautic.org) - Open-source, self-hostable marketing automation platform for campaigns, segmentation, and customer journeys.
 
 ## Docs
 
@@ -110,14 +115,17 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [Prezi](https://prezi.com): 画布PPT.
 - [幕布](https://mubu.com/): 极简大纲笔记，一键生成思维导图.
 - [Dataku](https://dataku.ai/) - Unstructured Text To Structured Data.
+- [DokuTrak](https://dokutrak.com) - Secure magic-link document collection: clients upload via link (no login), AI validates files and auto-reminds for what's missing.
 
 ## AI
 
 - [AnveVoice](https://anvevoice.app) - Voice AI agent for websites with agentic DOM actions, MCP support, 50+ languages, <700ms latency. Free tier.
 - [Donna](https://www.donna.legal/) - A plug-in for Microsoft Word that highlights and links relevant information.
+- [Hermes](https://buildwithhermes.com) - Operating platform for AI voice agencies. White-label voice agents with built-in CRM, campaign orchestration and usage billing, from $149/mo.
 - [Lobe](https://lobe.ai/) - Helps you train machine learning models with a free, easy to use tool.
 - [wombo.art](https://app.wombo.art/) - Create amazing works of art in seconds with the power of AI.
 - [Vedika](https://vedika.io/) - AI-powered Vedic astrology API with 6-agent swarm intelligence for natural language predictions.
+- [Hellomatik](https://hellomatik.com) - AI agent platform that turns company knowledge into agents that answer, sell and book across WhatsApp, email and web.
 
 ## VR
 
@@ -155,15 +163,18 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [Sentry](https://sentry.io/welcome/) - Application monitoring platform helps every developer diagnose, fix, and optimize the performance of their code.
 - [loggly](https://www.loggly.com/) - Log analysis & monitoring in the cloud.
 - [API Status Check](https://apistatuscheck.com) - Free real-time status monitoring dashboard for 114+ developer APIs including AWS, Stripe, GitHub, and OpenAI.
+- [Muscula](https://muscula.com/) - Lightweight, affordable, AI-powered error monitoring and debugging platform for applications and websites.
 
 ## CRM & HR
 
 - [悟空CRM](https://www.bt.cn/) - Customer Relationship Management.
+- [DeskLeap](https://deskleap.io) - Help desk platform with ticketing, live chat, knowledge base and AI automation for SMB teams.
 - [北森锐途](https://www.beisen.com/product/evaluation/glzh/?utm_source=GL_bd_cpxf_glrycp&utm_medium=bdsem&utm_term=%E6%B5%8B%E8%AF%84%E4%BA%91-%E7%BB%86%E5%88%86%E8%AF%8D&utm_content=%E7%AE%A1%E7%90%86%E4%BA%BA%E5%91%98%E7%BB%BC%E5%90%88%E6%B5%8B%E8%AF%84&utm_campaign=%E9%94%90%E9%80%94&e_matchtype=1&e_creative=14648159205&e_adposition=cl1&e_pagenum=1&e_keywordid=102315230595&e_keywordid2=102315230595)
 
 ## Cloud Services
 
 - [NextCloud](https://nextcloud.com) - A safe home for all your data, community-driven free & open source.
+- [DeployBase](https://deploybase.io) - Managed cloud hosting for WordPress, Laravel and Node.js with free SSL and automatic backups.
 
 ## RPA
 
