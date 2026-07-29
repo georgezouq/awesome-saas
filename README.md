@@ -128,6 +128,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [wombo.art](https://app.wombo.art/) - Create amazing works of art in seconds with the power of AI.
 - [Vedika](https://vedika.io/) - AI-powered Vedic astrology API with 6-agent swarm intelligence for natural language predictions.
 - [Hellomatik](https://hellomatik.com) - AI agent platform that turns company knowledge into agents that answer, sell and book across WhatsApp, email and web.
+- [Workforce Wave](https://www.workforcewave.com/) - AI voice receptionist for small businesses, handling 24/7 call answering, appointment booking, lead capture, and after-hours coverage.
 
 ## VR
 
