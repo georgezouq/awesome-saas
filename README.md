@@ -141,6 +141,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 - [Figma](https://www.figma.com/) - the collaborative interface design tool.
 - [igly.ai](https://igly.ai/) - AI-powered image editing for background removal, generative fill, upscaling, and product photo editing.
+- [Rao Edits](https://raoedits.top/) - AI image generation and reference-photo editing for creator and marketing workflows.
 - [Zeplin](https://zeplin.io/) - Handoff designs and styleguides with accurate specs, assets, code snippets—automatically.
 - [Whimsical](https://whimsical.com/) - Unified suite of collaboration tools. Great for product specs, wikis, brainstorming, ideation, user flows, architecture diagrams and more.
 - [Lanhu](https://lanhuapp.com/web/#/item) - Efficient product design collaboration platform.
