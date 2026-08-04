@@ -167,6 +167,10 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [API Status Check](https://apistatuscheck.com) - Free real-time status monitoring dashboard for 114+ developer APIs including AWS, Stripe, GitHub, and OpenAI.
 - [Muscula](https://muscula.com/) - Lightweight, affordable, AI-powered error monitoring and debugging platform for applications and websites.
 
+## Testing & QA
+
+- [sms-florin](https://flo-voice1.com) - Rents real UK phone numbers (physical GOIP hardware on EE/Three, not a reseller API) to receive SMS/OTP codes programmatically. Built for CI/QA pipelines that need to test WhatsApp/Telegram/Google/Discord-style SMS verification flows without burning a personal number. REST API + npm SDK.
+
 ## CRM & HR
 
 - [悟空CRM](https://www.bt.cn/) - Customer Relationship Management.
