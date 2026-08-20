@@ -91,6 +91,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [Screpy](https://screpy.com/) - AI-assisted SEO platform for technical audits, rank tracking, page-speed monitoring, and reporting.
 - [GetAppNiche](https://getappniche.com/) - iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+- [1mil.app](https://1mil.app/) - Business idea discovery tool. Enter a market and your background, and it runs live web research to return ranked opportunities scored on demand evidence and solo-founder winnability, with named competitors and checked pricing. Free tier available.
 
 
 ## Low & No Code Platform
