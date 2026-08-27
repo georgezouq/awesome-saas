@@ -61,6 +61,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 ## Project & Team Management
 
+- [Nozzio](https://nozzio.com) - Wedding planning workspace for guest lists, secure RSVP, seating, budgets, tasks, vendors, collaborators, and public wedding sites.
 - [Notion](https://www.notion.so/product) - One tool for your whole team. Write, plan, and get organized.
 - [KissFlow](https://kissflow.com/) - Digital Workplace designed for minimal disruption of work. Built for the modern workplace.
 - [Teambition](https://www.teambition.com/) - 包括 项目空间、网盘、文档、待办、日历 等新一代工具，帮助你把想法变成现实，让创作过程充满愉悦.
