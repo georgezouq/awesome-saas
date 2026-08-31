@@ -114,6 +114,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [DrawOnPDF](https://www.goodannotations.com/tools/draw-on-pdf) - Draw on PDF documents online with the best free PDF editor.
 - [MySlide](https://myslide.cn/) - 一个类似于SlideShare和SpeakerDeck的PPT分享网站.
 - [Hipa](https://hipacloud.com/) - Redefined table.
+- [Ibis](https://cartonpliant.github.io/ibis/) - Compose a one-page commercial offer in the browser. No account. Free with watermark; Pro 9€ for clean print, Markdown, and five layouts.
 - [Prezi](https://prezi.com): 画布PPT.
 - [幕布](https://mubu.com/): 极简大纲笔记，一键生成思维导图.
 - [Dataku](https://dataku.ai/) - Unstructured Text To Structured Data.
