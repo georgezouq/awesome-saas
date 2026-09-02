@@ -159,6 +159,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [Webflow](https://webflow.com/) - Empowers designers to build professional, custom websites in a completely visual canvas.
 - [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website‎
 - [LinkyPO](https://linkypo.com) - Free link-in-bio + mini-site builder with 21 block types (calendar booking, lead forms, OCR lists, loyalty stamps), Google/Outlook calendar sync and an AI SEO coach.
+- [Naratake](https://naratake.com/en) - Drag-and-drop website builder for restaurants, salons and trades. Publishes a real Next.js app, with online ordering and bookings through your own Stripe at 0% commission.
 
 ## Log Analysis
 
