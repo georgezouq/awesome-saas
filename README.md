@@ -20,6 +20,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [CMS & Website](#cms--website)
 - [Log Analysis](#log-analysis)
 - [Cloud Services](#cloud-services)
+- [Domain Monitoring](#domain-monitoring)
 - [RPA](#RPA)
 - [Art & Game Design](#Art & Game Design)
 
@@ -178,6 +179,9 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [NextCloud](https://nextcloud.com) - A safe home for all your data, community-driven free & open source.
 - [DeployBase](https://deploybase.io) - Managed cloud hosting for WordPress, Laravel and Node.js with free SSL and automatic backups.
 
+## Domain Monitoring
+
+- [Vacato](https://vacato.io) - RDAP domain availability watchlist with Telegram/email/Slack alerts; free 10 domains (not a drop-catcher).
 ## RPA
 
 - [影刀](https://www.winrobot360.com/Automation.html) - 每一个人都能用的RPA，结束重复工作，释放创意潜能.
