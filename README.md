@@ -68,6 +68,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [XDeveloper](https://x-developer.cn/) - 帮助企业基于研发度量构建起高效交付体系。
 - [Taskade](https://www.taskade.com/spaces/rshcAWanYLxmWNq4) - Map out your workflow, from ideas to action.
 - [PingCode](https://pingcode.com/) - 新一代研发管理平台，让研发管理自动化、数据化、智能化，帮助企业提升研发效能.
+- [Retainer OS — Starter](https://eliteseo6.gumroad.com/l/ewvwy) - Notion template for solo and small SEO agencies to track client deliverables and retainer work in one board.
 
 ## Marketing
 
