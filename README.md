@@ -79,6 +79,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [微擎](https://www.w7.cc/) - 微信公众号管理系统 + 应用商城，海量应用，随心所选
 - [CRMEB](http://www.crmeb.com/) - 致力于帮助更多的中小企业开展线上线下O2O、B2C、新零售业务，实现互联网转型      
 - [framer](https://www.framer.com/) - The professional website design platform for startups, designers and agencies. Ship within hours, straight from your canvas – no code and no limitations.
+- [Social media studio](https://so-me.studio) - Social media scheduling, AI caption writing, inbox management, and analytics, with API and MCP integrations for publishing workflows.
 - [SocialGrep Reddit Alerts](https://socialgrep.com/alerts) - social media listening tool. "Signals out of the social web of noise".
 - [Awesome Agentic Commerce](https://github.com/MentionNetwork/awesome-agentic-commerce) - Curated list of GEO / AI-visibility tools and agentic commerce protocols for SaaS and ecommerce brands marketing in the AI-search era.
 - [SquareSpace](https://www.squarespace.com/) - Website Builder — Create a Website in Minutes.
