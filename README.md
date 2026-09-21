@@ -44,6 +44,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 ## Information
 
+- [FieldServiceScout](https://www.fieldservicescout.com/) - Free, vendor-neutral field-service software comparison site for trade shops (Jobber, Housecall Pro, ServiceTitan peers).
 - [Meetup](https://www.meetup.com/) - Discover events for all the things you love.
 - [Owler](https://corp.owler.com/) - Hard-to-find company data, and strategic news alerts for savvy executives, marketers and sales professionals.
 - [IntelCue](https://www.intelcue.ai) - AI-native competitive intelligence platform delivering competitor monitoring inside Claude and ChatGPT via MCP.
