@@ -128,6 +128,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [wombo.art](https://app.wombo.art/) - Create amazing works of art in seconds with the power of AI.
 - [Vedika](https://vedika.io/) - AI-powered Vedic astrology API with 6-agent swarm intelligence for natural language predictions.
 - [Hellomatik](https://hellomatik.com) - AI agent platform that turns company knowledge into agents that answer, sell and book across WhatsApp, email and web.
+- [Screenpipe](https://screenpipe.com/) - Searchable locally captured screen text and audio history for recall, meeting notes and AI context through MCP and a local API. Source-available under the Screenpipe Commercial License; configured cloud features and connected AI clients may send context off-device.
 
 ## VR
 
