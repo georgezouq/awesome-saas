@@ -68,7 +68,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [XDeveloper](https://x-developer.cn/) - 帮助企业基于研发度量构建起高效交付体系。
 - [Taskade](https://www.taskade.com/spaces/rshcAWanYLxmWNq4) - Map out your workflow, from ideas to action.
 - [PingCode](https://pingcode.com/) - 新一代研发管理平台，让研发管理自动化、数据化、智能化，帮助企业提升研发效能.
-- [WhoOwnsWhat.xyz](https://whoownswhat.xyz/?utm_source=github&utm_medium=referral&utm_campaign=awesome_lists&utm_content=georgezouq_awesome_saas) - Shared project ledger for small teams to track tool costs and asset ownership; free sheet available, MCP access planned.
+- [WhoOwnsWhat.xyz](https://whoownswhat.xyz/?utm_source=github&utm_medium=referral&utm_campaign=awesome_lists&utm_content=georgezouq_awesome_saas) - Shared project ledger for small teams to track tool costs and asset ownership; free plan and MCP access live.
 
 ## Marketing
 
