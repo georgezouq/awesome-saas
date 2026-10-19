@@ -189,5 +189,6 @@ A curated list of awesome SaaS (Software as a server) starter.
 ## User Experience
 
 - [UserTesting](https://www.usertesting.com/) - Hear what your audience is saying and see what they mean. So you can create better experiences.
+- [Pulse](https://pulsecorp.co) - AI-moderated market research platform that runs customer interviews at scale.
 
 - [MeterCall](https://metercall.ai/?v=c&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.
