@@ -157,6 +157,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 ## CMS & Website
 
 - [Webflow](https://webflow.com/) - Empowers designers to build professional, custom websites in a completely visual canvas.
+- [Icybiz](https://icybiz.com/) - Free visual website builder with hosted pages, responsive layouts, and no coding required.
 - [Linkz.ai](https://linkz.ai) - Immersive hyperlink previews to keep visitors on your website‎
 - [LinkyPO](https://linkypo.com) - Free link-in-bio + mini-site builder with 21 block types (calendar booking, lead forms, OCR lists, loyalty stamps), Google/Outlook calendar sync and an AI SEO coach.
 
