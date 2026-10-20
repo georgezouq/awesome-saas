@@ -91,6 +91,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [Screpy](https://screpy.com/) - AI-assisted SEO platform for technical audits, rank tracking, page-speed monitoring, and reporting.
 - [GetAppNiche](https://getappniche.com/) - iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+- [Seonix](https://seonix.ai) - Automated SEO platform for small businesses and SaaS: technical site audit, keyword clusters, AI articles published to WordPress on schedule, Search Console/GA4 tracking and brand mentions in ChatGPT, Gemini, Claude and Perplexity answers. Free audit plan, paid from $49/mo.
 
 
 ## Low & No Code Platform
