@@ -58,6 +58,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [ChartCube](https://chartcube.alipay.com/) - Online chart generator.
 - [小葫芦](https://www.xiaohulu.com/gonghui/) - 达人数据统计分析工具
 - [Crawlbase](https://crawlbase.com/) - Your go-to tool for effortless website data extraction! Easily collect information with our user-friendly interface and enjoy seamless crawling for all your data needs.
+- [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 ## Project & Team Management
 
