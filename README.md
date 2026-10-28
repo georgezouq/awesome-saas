@@ -100,6 +100,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [Huozige](https://www.grapecity.com.cn/solutions/huozige) - Low code platform.
 - [艾拉云](https://www.illacloud.com/zh-CN) - 分钟级开发 轻松搭建内部工具
 - [Storyteller](https://storyteller.webzard.io/?utm_source=juejin&utm_medium=post) - No-code interactive tutorial builder
+- [AppWizzy](https://appwizzy.com/) - AI web app builder with runtime templates, dedicated cloud development VMs, and Git-based source editing.
 
 #### Open Source
 
