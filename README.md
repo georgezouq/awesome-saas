@@ -177,6 +177,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 
 - [NextCloud](https://nextcloud.com) - A safe home for all your data, community-driven free & open source.
 - [DeployBase](https://deploybase.io) - Managed cloud hosting for WordPress, Laravel and Node.js with free SSL and automatic backups.
+- [CurlShot](https://curlshot.com) - Screenshot API: one HTTP request turns a URL, HTML or Markdown into a PNG, JPEG, WebP, PDF or scrolling video. Free plan with 100 screenshots a month.
 
 ## RPA
 
