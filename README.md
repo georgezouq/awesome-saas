@@ -19,6 +19,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [Discussion](#discussion)
 - [CMS & Website](#cms--website)
 - [Log Analysis](#log-analysis)
+- [Monitoring](#monitoring)
 - [Cloud Services](#cloud-services)
 - [RPA](#RPA)
 - [Art & Game Design](#Art & Game Design)
@@ -166,6 +167,10 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [loggly](https://www.loggly.com/) - Log analysis & monitoring in the cloud.
 - [API Status Check](https://apistatuscheck.com) - Free real-time status monitoring dashboard for 114+ developer APIs including AWS, Stripe, GitHub, and OpenAI.
 - [Muscula](https://muscula.com/) - Lightweight, affordable, AI-powered error monitoring and debugging platform for applications and websites.
+
+## Monitoring
+
+* [PingCron](https://www.pingcron.io) - An isolated external dead-man's switch and heartbeat monitor for cron jobs, database backups, and asynchronous queue workers. Includes a native MCP connector for AI assistants.
 
 ## CRM & HR
 
