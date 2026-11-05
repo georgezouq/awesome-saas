@@ -94,7 +94,6 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [MailVeri](https://mailveri.com) - Bulk and real-time email verification API (SMTP, catch-all, disposable, role detection); pay-as-you-go from $9 per 10,000 credits, 1,000 free.
 
 
-
 ## Low & No Code Platform
 
 - [Airtable](https://airtable.com/) - Low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes.
