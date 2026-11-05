@@ -89,6 +89,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [SalesLabel](https://sales-label.com) - White-label outbound sales infrastructure platform for B2B agencies. Helps 100+ agencies launch reseller offers under their own brand.
 - [Shotlingo](https://shotlingo.com) - AI-powered App Store screenshot localization for 40+ languages. Translate, preview, and batch-export App Store / Google Play screenshots — text expansion, RTL mirror, and per-locale fonts handled automatically.
 - [Screpy](https://screpy.com/) - AI-assisted SEO platform for technical audits, rank tracking, page-speed monitoring, and reporting.
+- [Descriptra](https://descriptra.com) - AI product description generator and GEO/SEO catalog optimization SaaS for e-commerce stores in 22 languages.
 - [GetAppNiche](https://getappniche.com/) - iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
