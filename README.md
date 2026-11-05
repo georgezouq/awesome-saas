@@ -26,7 +26,6 @@ A curated list of awesome SaaS (Software as a server) starter.
 ## Book
 
 - [SaaS创业路线图](https://book.douban.com/subject/35079444/) - to B产品、营销、运营方法论及实战案例解读
-- [MailVeri](https://mailveri.com) - Bulk and real-time email verification API (SMTP, catch-all, disposable, role detection); pay-as-you-go from $9 per 10,000 credits, 1,000 free.
 - [硅谷蓝图](https://book.douban.com/subject/33407572/) - 新一代销售组织极速增长的秘密
 
 ## Low & No Code Platform
@@ -92,6 +91,8 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [Screpy](https://screpy.com/) - AI-assisted SEO platform for technical audits, rank tracking, page-speed monitoring, and reporting.
 - [GetAppNiche](https://getappniche.com/) - iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+- [MailVeri](https://mailveri.com) - Bulk and real-time email verification API (SMTP, catch-all, disposable, role detection); pay-as-you-go from $9 per 10,000 credits, 1,000 free.
+
 
 
 ## Low & No Code Platform
