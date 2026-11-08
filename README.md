@@ -91,6 +91,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [Screpy](https://screpy.com/) - AI-assisted SEO platform for technical audits, rank tracking, page-speed monitoring, and reporting.
 - [GetAppNiche](https://getappniche.com/) - iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+- [igtrackr Instagram Report Generator](https://igtrackr.com/tools/report) - Printable Instagram performance report (engagement, top posts, audience snapshot) for any public account. Free to start, no Instagram login.
 
 
 ## Low & No Code Platform
