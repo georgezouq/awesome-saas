@@ -90,6 +90,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [Shotlingo](https://shotlingo.com) - AI-powered App Store screenshot localization for 40+ languages. Translate, preview, and batch-export App Store / Google Play screenshots — text expansion, RTL mirror, and per-locale fonts handled automatically.
 - [Screpy](https://screpy.com/) - AI-assisted SEO platform for technical audits, rank tracking, page-speed monitoring, and reporting.
 - [GetAppNiche](https://getappniche.com/) - iOS App Store market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
+- [App Store Localizer](https://asolocalization.com) - Paste a public App Store URL to get translated screenshots plus localized title, subtitle, description, and keywords per locale. One-time packages, no subscription.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 
