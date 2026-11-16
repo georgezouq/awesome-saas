@@ -58,6 +58,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [ChartCube](https://chartcube.alipay.com/) - Online chart generator.
 - [小葫芦](https://www.xiaohulu.com/gonghui/) - 达人数据统计分析工具
 - [Crawlbase](https://crawlbase.com/) - Your go-to tool for effortless website data extraction! Easily collect information with our user-friendly interface and enjoy seamless crawling for all your data needs.
+- [Lomen Analytics](https://lomenanalytics.com) - Website analytics from one cookie-free script tag, with a built-in AI chat that answers questions about your traffic. Free during the public beta.
 
 ## Project & Team Management
 
