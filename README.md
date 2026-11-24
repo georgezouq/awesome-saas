@@ -58,6 +58,7 @@ A curated list of awesome SaaS (Software as a server) starter.
 - [ChartCube](https://chartcube.alipay.com/) - Online chart generator.
 - [小葫芦](https://www.xiaohulu.com/gonghui/) - 达人数据统计分析工具
 - [Crawlbase](https://crawlbase.com/) - Your go-to tool for effortless website data extraction! Easily collect information with our user-friendly interface and enjoy seamless crawling for all your data needs.
+- [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp/blob/main/README.zh-CN.md) - 18 个托管在 Apify 上的公共数据 MCP 服务器：美国联邦合同与资助（SAM.gov、Grants.gov、USAspending）、欧盟 TED 与英国招标、市议会会议、Ashby/Greenhouse/Lever/SmartRecruiters 职位、公司社交账号、Google 广告透明度、Etsy 销量、体育赔率、Spotify 播放量.
 
 ## Project & Team Management
 
